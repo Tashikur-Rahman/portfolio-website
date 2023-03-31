@@ -1,0 +1,27 @@
+h3 {
+    font-size: 40px;
+    padding-left: 70px;
+}
+
+p {
+    font-size: 30px;
+    padding-left: 50px;
+}
+
+.cv {
+    text-decoration: none;
+    background-color: aqua;
+    padding: 10px 40px;
+    border-radius: 10px;
+
+
+}
+
+section {
+    text-align: justify;
+    display: flex;
+}
+
+.img-bg {
+    padding-right: 30px;
+}
