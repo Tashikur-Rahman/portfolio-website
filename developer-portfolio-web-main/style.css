@@ -1,0 +1,177 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 80px;
+    margin-top: -30px
+}
+
+.khan {
+    margin-top: -100px;
+    margin-bottom: -20px;
+}
+
+p {
+    margin-bottom: 50px;
+    font-weight: 300;
+}
+
+.cv {
+    text-decoration: none;
+    background-color: orange;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-weight: 800;
+    color: white;
+    font-size: 25px;
+}
+
+.half-width {
+    display: 50%;
+    margin: 0 200px;
+}
+
+.top-bannar {
+    padding-top: 200px;
+    background-color: #FFF8F3;
+    display: flex;
+    background-image: url(images/developer.png), url(images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom left, bottom right;
+    align-items: center;
+}
+
+.info {
+    display: flex;
+}
+
+.info h4 {
+    padding: 10px 50px;
+    font-weight: 700;
+    font-size: 25px;
+    margin: auto;
+    color: #757575
+}
+
+.info h4 strong {
+    display: block;
+    font-weight: 600;
+    color: #474747;
+}
+
+.imges-bg {
+    margin-bottom: -7px;
+}
+
+.about-me {
+    background-color: #FFF8F3;
+    border-radius: 10px;
+    margin: 100px;
+    padding: 100px;
+    text-align: center;
+}
+
+.about-me p {
+    padding-top: 40px;
+    font-size: 25px;
+    font-weight: 100;
+    color: #757575;
+}
+
+.exp-head {
+    text-align: center;
+    font-size: 30px;
+}
+
+.do {
+    display: flex;
+    margin: 10px 60px;
+}
+
+
+.experiance {
+    background-color: whitesmoke;
+    margin-left: 20px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.experiance p {
+    color: #757575;
+}
+
+.resume-title {
+    text-align: center;
+    font-size: 30px;
+    padding: 100px 0px 50px;
+}
+
+.my-resume {
+    display: flex;
+    margin: 20px 60px;
+}
+
+.my-resume h4 {
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.my-resume h3 {
+    font-size: 16px;
+}
+
+.my-resume h5,
+p {
+    color: #757575;
+}
+
+.exp-devided {
+    padding-left: 20px;
+}
+
+
+.resume-cv {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.social-logo {
+    display: flex;
+}
+
+.massage-me {
+    display: flex;
+    margin: 100px 80px 0px;
+    padding: 100px 200px;
+    background-color: #FFF8F3;
+    gap: 100px;
+}
+.massage-me h4{
+    font-size: 35px;
+}
+
+.massage-area {
+    border-radius: 10px;
+    border: 0;
+    padding: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.sub-btn{
+    text-decoration: none;
+    color: white;
+    padding: 25px 35px;
+    background-color: orangered;
+    border-radius: 10px;
+    font-weight: 800;
+    font-size: 20px;
+    border: 0;
+}
